@@ -39,3 +39,58 @@
     line-height: 26.08px;
     text-align: left;
   }
+
+  /* Media Query for 1024px and below */
+@media (max-width: 1024px) {
+  .intro {
+    width: 95.5%;
+    margin: 60px auto 0 auto;
+  }
+
+  .intro__title {
+    font-size: 36px;
+    line-height: 1.1;
+    margin: 0 0 20px 0;
+  }
+
+  .intro__quote,
+  .intro__quote-author {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .intro__article {
+    font-size: 14px;
+    line-height: 1.3;
+  }
+}
+
+/* Media Query for 544px and below */
+@media (max-width: 544px) {
+  .intro {
+    width: 97%;
+    margin-top: 40px;
+    padding: 0 5px;
+  }
+
+  .intro__title {
+    font-size: 24px;
+    line-height: 1.1;
+    margin: 0 0 10px 0;
+  }
+
+  .intro__container {
+    width: 100%;
+  }
+
+  .intro__quote,
+  .intro__quote-author {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .intro__article {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+}

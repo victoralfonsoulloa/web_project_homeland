@@ -2,9 +2,25 @@
 .header {
     text-align: center;
   }
-  
+
   .header__logo {
     text-align: center;
     width: 254px;
     padding: 34px 0 91px 0;
   }
+
+  /* Media Query for 1024px and below */
+@media (max-width: 1024px) {
+  .header__logo {
+    width: 254px;
+    padding: 34px 0 88px 0;
+  }
+}
+
+/* Media Query for 544px and below */
+@media (max-width: 544px) {
+  .header__logo {
+    width: 188px;
+    padding: 34px 0 50px 0;
+  }
+}
