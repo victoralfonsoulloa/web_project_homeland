@@ -14,10 +14,6 @@
   margin: 0 auto 32px auto;
 }
 
-.lead__title_line-break {
-  display: block;
-}
-
 .lead__description {
   width: 73%;
   font-family: Inter;
@@ -40,7 +36,7 @@
   height: auto;
 }
 
-.lead__image-container--grayscale .lead__image {
+.lead__image-container_grayscale .lead__image {
   filter: grayscale(100%);
 }
 
