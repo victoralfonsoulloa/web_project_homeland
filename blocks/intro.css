@@ -1,0 +1,42 @@
+.intro {
+    width: 84.35%;
+    margin-top: 92px;
+  }
+  
+  .intro__title {
+    font-family: Inter;
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 1.1;
+    text-align: left;
+    margin: 0 0 40px 0;
+  }
+  
+  .intro__container {
+    width: 88.92%;
+  }
+  
+  .intro__quote {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: left;
+  }
+  
+  .intro__quote-author {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: right;
+  }
+  
+  .intro__article {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26.08px;
+    text-align: left;
+  }
+  
