@@ -1,11 +1,11 @@
-@import url(/vendor/normalize.css);
-@import url(/vendor/fonts.css);
-@import url(/blocks/page.css);
-@import url(/blocks/header.css);
-@import url(/blocks/main.css);
-@import url(/blocks/lead.css);
-@import url(/blocks/intro.css);
-@import url(/blocks/copyright.css);
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(../blocks/page.css);
+@import url(../blocks/header.css);
+@import url(../blocks/main.css);
+@import url(../blocks/lead.css);
+@import url(../blocks/intro.css);
+@import url(../blocks/copyright.css);
 
 /* Media Query for 1024px and below */
 @media (max-width: 1024px) {
