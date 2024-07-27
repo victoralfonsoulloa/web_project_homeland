@@ -4,14 +4,14 @@
 
 .header__logo {
   text-align: center;
-  width: 254px;
+  width: 19.91%;
   padding: 34px 0 91px 0;
 }
 
 /* Media Query for 1024px and below */
 @media (max-width: 1024px) {
   .header__logo {
-    width: 254px;
+    min-width: 188px;
     padding: 34px 0 80px 0;
   }
 }
