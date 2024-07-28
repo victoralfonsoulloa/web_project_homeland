@@ -34,6 +34,9 @@
   display: block;
   width: 100%;
   height: auto;
+  -webkit-box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.57);
+  -moz-box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.57);
+  box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.57);
 }
 
 .lead__image-container_grayscale .lead__image {
@@ -73,8 +76,6 @@
 
   .lead__image {
     width: 100%;
-    box-shadow: -10 -10px 15px -10px rgba(0, 0, 0, 0.5),
-      10 10px 15px -10px rgba(0, 0, 0, 0.5);
   }
 }
 

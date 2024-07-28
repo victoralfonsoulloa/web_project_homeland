@@ -1,18 +1,18 @@
-.content__wraper {
+.content__wrapper {
   width: 76.88%;
   margin: 0 auto;
 }
 
 /* Media Query for 1024px and below */
 @media (max-width: 1024px) {
-  .content__wraper {
+  .content__wrapper {
     width: 100%;
   }
 }
 
 /* Media Query for 544px and below */
 @media (max-width: 544px) {
-  .content__wraper {
+  .content__wrapper {
     width: 100%;
   }
 }
