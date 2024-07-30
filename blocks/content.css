@@ -4,7 +4,7 @@
 }
 
 /* Media Query for 1024px and below */
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   .content__wrapper {
     width: 100%;
   }
