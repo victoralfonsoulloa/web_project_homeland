@@ -1,0 +1,21 @@
+.places {
+  margin: 92px 0 90px 0;
+}
+
+/* Media Query for 1024px and below */
+@media (max-width: 1024px) {
+  .places {
+    margin-top: 88px;
+    width: 93.75%;
+    margin: 60px auto 0 auto;
+  }
+}
+
+/* Media Query for 718px and below */
+@media (max-width: 718px) {
+  .places {
+    margin-top: 62px;
+    width: 93.75%;
+    margin-bottom: 50px;
+  }
+}
