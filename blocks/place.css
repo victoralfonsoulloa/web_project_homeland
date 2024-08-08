@@ -66,8 +66,6 @@
   max-height: 460px;
   object-fit: cover;
   display: block;
-  -webkit-box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
   box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
   opacity: 1; /* Fully opaque by default */
   transition: opacity 0.5s ease;
@@ -91,7 +89,7 @@
   padding: 13px 20px 13px 20px;
   border-radius: 4px;
   background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
-  box-shadow: 5px 5px 10px 0px #00000040;
+  box-shadow: 5px 5px 10px #00000040;
   text-decoration: none;
   transition: background 1.5s ease;
 }
