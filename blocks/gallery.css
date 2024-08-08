@@ -19,7 +19,6 @@
   height: auto;
 }
 
-/* Media Query for 1024px and below */
 @media (max-width: 1024px) {
   .gallery {
     margin-top: 64px;
@@ -32,7 +31,6 @@
   }
 }
 
-/* Media Query for 544px and below */
 @media (max-width: 544px) {
   .gallery {
     margin-top: 38px;

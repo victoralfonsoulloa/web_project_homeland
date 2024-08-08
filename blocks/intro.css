@@ -40,7 +40,6 @@
   text-align: left;
 }
 
-/* Media Query for 1024px and below */
 @media (max-width: 1024px) {
   .intro {
     width: 93.75%;
@@ -69,7 +68,6 @@
   }
 }
 
-/* Media Query for 544px and below */
 @media (max-width: 544px) {
   .intro {
     width: 91%;

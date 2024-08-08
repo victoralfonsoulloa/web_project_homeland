@@ -2,7 +2,6 @@
   margin: 92px 0 90px 0;
 }
 
-/* Media Query for 1024px and below */
 @media (max-width: 1024px) {
   .places {
     margin-top: 88px;
@@ -11,7 +10,6 @@
   }
 }
 
-/* Media Query for 718px and below */
 @media (max-width: 718px) {
   .places {
     margin-top: 62px;

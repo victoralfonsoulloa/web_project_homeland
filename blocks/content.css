@@ -3,7 +3,6 @@
   margin: 0 auto;
 }
 
-/* Media Query for 980px and below */
 @media (max-width: 980px) {
   .content__wrapper {
     width: 90%;
@@ -11,14 +10,12 @@
   }
 }
 
-/* Media Query for 768px and below */
 @media (max-width: 768px) {
   .content__wrapper {
     width: 100%;
   }
 }
 
-/* Media Query for 544px and below */
 @media (max-width: 544px) {
   .content__wrapper {
     width: 100%;

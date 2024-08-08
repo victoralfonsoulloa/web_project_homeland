@@ -8,14 +8,12 @@
   padding: 0 0 24px 0;
 }
 
-/* Media Query for 1024px and below */
 @media (max-width: 1024px) {
   .copyright {
     padding: 88px 0 24px 0;
   }
 }
 
-/* Media Query for 544px and below */
 @media (max-width: 544px) {
   .copyright {
     padding: 64px 0 24px 0;
