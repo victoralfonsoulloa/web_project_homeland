@@ -34,9 +34,9 @@
   display: block;
   width: 100%;
   height: auto;
-  -webkit-box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.57);
-  -moz-box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.57);
-  box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.57);
+  -webkit-box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
 
 .lead__image-container_grayscale .lead__image {
